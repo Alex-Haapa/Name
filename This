@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+        <meta charset="utf-8">
+        <Title>Chrome Moment</Title>
+        <style>
+            #Gog{
+                color:darkred
+            }
+            h1{
+                font-size: 30px;
+            }
+            p{
+                font-size: 20px
+            }
+            #wall{
+                font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+            }
+        </style>
+    </HEAD>
+    <body>
+        <h1>This is a certified <em>Google Chrome Moment</em></h1>
+        <p>A <span id="Gog"><em>Google Chrome Moment</em></span> is a moment when the <strong>chrome</strong> is <strong>Google</strong>. </p>
+        <h2 id="wall">Logan, I'm in your walls</h2>
+    </body>
+</HTML>
